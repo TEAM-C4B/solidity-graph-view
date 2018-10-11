@@ -82,4 +82,4 @@ def relation(data):
 		if(key2 != ''):
 			data_div[key][key2] += data[i]
 
-	return data_di
+	return data_div
